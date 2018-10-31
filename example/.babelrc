@@ -2,8 +2,6 @@
   "retainLines": true,
   "compact": true,
   "comments": false,
-  "presets": [
-    "react-native"
-  ],
+  "presets": ["react-native"],
   "sourceMaps": false
 }
